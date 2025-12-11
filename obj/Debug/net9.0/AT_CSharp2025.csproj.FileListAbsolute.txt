@@ -1,0 +1,14 @@
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/bin/Debug/net9.0/AT_CSharp2025
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/bin/Debug/net9.0/AT_CSharp2025.deps.json
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/bin/Debug/net9.0/AT_CSharp2025.runtimeconfig.json
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/bin/Debug/net9.0/AT_CSharp2025.dll
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/bin/Debug/net9.0/AT_CSharp2025.pdb
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.AssemblyInfoInputs.cache
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.AssemblyInfo.cs
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.csproj.CoreCompileInputs.cache
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.dll
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/refint/AT_CSharp2025.dll
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.pdb
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/AT_CSharp2025.genruntimeconfig.cache
+/Users/fernandofogaca/RiderProjects/AT_CSharp2025/obj/Debug/net9.0/ref/AT_CSharp2025.dll
