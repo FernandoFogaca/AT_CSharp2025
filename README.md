@@ -1,5 +1,5 @@
 # AT CSharp 2025  
-Trabalho DR2 – Desenvolvimento em C#
+Trabalho  Desenvolvimento em C#
 
 Nome: Fernando Padilha Fogaça  
 Repositório: https://github.com/FernandoFogaca/AT_CSharp2025
